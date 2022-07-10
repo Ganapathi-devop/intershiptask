@@ -1,7 +1,7 @@
 # intershiptask
 
 ## Auto Loading
-this is a function that allow us to include all the class we created at a single function and help us to call whenever its needed. By using this we can just call the file which has the autoload function to the file which need any class
+This is a function that allow us to include all the class we created at a single function and help us to call whenever its needed. By using this we can just call the file which has the autoload function to the file which need any class
 
 example:-
 
